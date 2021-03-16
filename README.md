@@ -15,9 +15,9 @@ I'm a A self-motivated IT professional with good knowledge and proficiency in HT
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Technologies
-![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
 ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/-React%20Native-fff?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
 ![Material Design](https://img.shields.io/badge/-Material%20Design-fff?style=flat&logo=material-design&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat&logo=mongo-db-Server&logoColor=blue)
