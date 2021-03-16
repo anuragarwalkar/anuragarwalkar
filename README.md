@@ -3,6 +3,7 @@
 I'm a A self-motivated IT professional with good knowledge and proficiency in HTML, CSS, JavaScript and mobile responsive web development, I'm passionate about Software development. I love to learn and share.
 
 [![twitter badge](https://img.shields.io/badge/-@anuragarwalkar-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anuragarwalkar)
+[![twitter badge](https://img.shields.io/badge/-@anuragarwalkar-c14438?style=flat&logo=youtube&logoColor=white)](https://youtube.com/anuragarwalkar)
 [![dev.to badge](https://img.shields.io/badge/-anuragarwalkar-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuragarwalkar)
 [![twitter badge](https://img.shields.io/badge/-@anuragarwalkar-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anuragarwalkar)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anuragarwalkar@gmail.com)](mailto:anuragarwalkar@gmail.com)
