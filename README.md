@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://anuragarwalkar.github.io">Anurag</a> 👋🏼👨🏻‍💻
 
-I'm a A self-motivated IT professional with good knowledge and proficiency in HTML, CSS, JavaScript and mobile responsive web development, I'm passionate about Software development. I love to learn and share.
+I'm a self-motivated IT professional with good knowledge and proficiency in Web development, I'm passionate about Software development. I love to learn and share.
 
 [![twitter badge](https://img.shields.io/badge/-@anuragarwalkar-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anuragarwalkar)
 [![twitter badge](https://img.shields.io/badge/-@anuragarwalkar-c14438?style=flat&logo=youtube&logoColor=white)](https://youtube.com/anuragarwalkar)
