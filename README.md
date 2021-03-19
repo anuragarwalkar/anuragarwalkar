@@ -19,7 +19,7 @@ I'm a self-motivated IT professional with good knowledge and proficiency in Web 
 ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/-React%20Native-fff?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat&logo=mongo-db-Server&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-fff?style=flat&logo=mongodb&logoColor=green)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
