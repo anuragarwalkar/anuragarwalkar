@@ -12,8 +12,8 @@ I'm a self-motivated IT professional with good knowledge and proficiency in Web 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+[![Dart](https://img.shields.io/badge/-Dart-fff?&logo=dart&logoColor=blue)]
+
 
 #### Technologies
 ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=61DAFB)
