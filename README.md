@@ -8,22 +8,38 @@ I'm a self-motivated IT professional with great knowledge and proficiency in Web
 [![twitter badge](https://img.shields.io/badge/-Instagram-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anuragarwalkar)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anuragarwalkar@gmail.com)](mailto:anuragarwalkar@gmail.com)
 
-#### Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-[![Dart](https://img.shields.io/badge/-Dart-fff?&logo=dart&logoColor=blue)]
+<h3>👩‍💻 Tools</h3>
+
+![Angular](https://img.shields.io/badge/angular-%23C21325?&style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<br>
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+<br>
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/docker-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+<h3>🚀 Languages</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-#### Technologies
-![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React%20Native-fff?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
-![MongoDB](https://img.shields.io/badge/MongoDB-fff?style=flat&logo=mongodb&logoColor=green)
-![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
-![Flutter](https://img.shields.io/badge/-Flutter-fff?style=flat&logo=Flutter&logoColor=blue)
-<!-- ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E) -->
-<!-- ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue) -->
+<h3>📂 Databses</h3>
+
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
