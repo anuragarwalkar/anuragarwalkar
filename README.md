@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://anuragarwalkar.github.io">Anurag</a> 
+<h1 align="center">Hi there, Anurag here <img src="assets/hi.gif" width="30px"></h1>
 
 I'm a self-motivated IT professional with great knowledge and proficiency in Web development, I'm passionate about Software development. I love to learn and share.
 
