@@ -32,8 +32,9 @@ I'm a self-motivated IT professional with great knowledge and proficiency in Web
 
 <h3>🚀 Languages</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%23007ACC.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 <h3>📂 Databses</h3>
