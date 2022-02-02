@@ -12,10 +12,9 @@ I'm a self-motivated IT professional with great knowledge and proficiency in Web
 
 <h3>👩‍💻 Tools</h3>
 
-![Angular](https://img.shields.io/badge/angular-%23C21325?&style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23C21325?&style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <br>
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)
@@ -34,7 +33,6 @@ I'm a self-motivated IT professional with great knowledge and proficiency in Web
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%23007ACC.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 <h3>📂 Databses</h3>
