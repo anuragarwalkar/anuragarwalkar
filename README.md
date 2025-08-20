@@ -45,11 +45,11 @@ Developed a Node.js backend boilerplate using Express and TypeScript, featuring 
 
 ### 💬 **Chat Buddy**
 Developed a realtime one-to-one chat application using Angular, Node.js, and WebSocket. Features responsive frontend with server-side APIs and real-time updates.
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4CAF50?style=flat&logo=googlechrome&logoColor=white)](https://chatbuddy.example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anuragarwalkar/chat-buddy)
 
 ### 📄 **Resume Builder**
 Web-based resume builder using React, enabling users to create, customize, and export professional resumes. Implemented intuitive form handling, template selection, and PDF export features.
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4CAF50?style=flat&logo=googlechrome&logoColor=white)](https://cvbuilder.example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anuragarwalkar/resume-builder)
 
 ## 🛠️ Technologies & Tools
 
