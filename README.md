@@ -13,9 +13,10 @@
 </h1>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Tech+Lead+%40+Globant;Cross-Platform+Mobile+%26+Web+Architect;Agentic+AI+Enthusiast+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Tech+Lead+%40+Globant;Cross-Platform+Mobile+%26+Web+Architect;Agentic+AI+Enthusiast+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 </a>
 
+<br/>
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anuragarwalkar&label=SIGNAL%20RECEIVED&color=8B5CF6&style=for-the-badge)
